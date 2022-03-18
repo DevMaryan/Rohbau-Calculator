@@ -1,4 +1,4 @@
-# Rohbau-Calculator-Public
+# Rohbau-Calculator-Public-Swiss
 
 Made in JavaScript.
 
