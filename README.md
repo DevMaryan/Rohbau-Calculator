@@ -1,7 +1,5 @@
 # Rohbau-Calculator
-
-<iframe width="420" height="345" src="https://youtu.be/Oozl2_8Quaw">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oozl2_8Quaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <a href="https://ibb.co/2tsWdtG"><img src="https://i.ibb.co/BZrcBZ0/building-ss.png" alt="building-ss" border="0"></a>
