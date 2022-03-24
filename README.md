@@ -1,6 +1,6 @@
 # Rohbau-Calculator-Public-Swiss
 
-Made in JavaScript.
+Separate JavaScript project which later was include in .Net application.
 
 How it works:
 </br>
