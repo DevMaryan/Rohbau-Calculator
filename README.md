@@ -1,6 +1,6 @@
 # Rohbau-Calculator-Public-Swiss
 
-Separate JavaScript project which later was include in .Net application.
+Separate JavaScript project which later was included in .Net application.
 
 How it works:
 </br>
